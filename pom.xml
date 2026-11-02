@@ -47,7 +47,7 @@
 <!--        &lt;!&ndash; Indique à SonarCloud où trouver le rapport JaCoCo &ndash;&gt;-->
         <sonar.coverage.jacoco.xmlReportPaths>
             target/site/jacoco/jacoco.xml
-        </sonar.coverage.jacoco.xmlReportPaths>
+       </sonar.coverage.jacoco.xmlReportPaths>
 
     </properties>
 

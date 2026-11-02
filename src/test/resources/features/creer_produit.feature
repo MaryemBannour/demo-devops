@@ -1,4 +1,4 @@
-# language: en, gherkin
+# language: en
 Feature: Product Creation
 
   As a catalog manager
