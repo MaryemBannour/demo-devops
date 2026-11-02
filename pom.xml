@@ -40,14 +40,14 @@
         <java.version>17</java.version>
 
         <!-- Connexion SonarCloud -->
-<!--        <sonar.projectKey>amdouni-bilel_beestore-java</sonar.projectKey>-->
-<!--        <sonar.organization>amdouni-bilel</sonar.organization>-->
-<!--        <sonar.host.url>https://sonarcloud.io</sonar.host.url>-->
+        <sonar.projectKey>MaryemBannour_demo-devops</sonar.projectKey>
+        <sonar.organization>maryembannour</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
 <!--        &lt;!&ndash; Indique à SonarCloud où trouver le rapport JaCoCo &ndash;&gt;-->
-<!--        <sonar.coverage.jacoco.xmlReportPaths>-->
-<!--            target/site/jacoco/jacoco.xml-->
-<!--        </sonar.coverage.jacoco.xmlReportPaths>-->
+        <sonar.coverage.jacoco.xmlReportPaths>
+            target/site/jacoco/jacoco.xml
+        </sonar.coverage.jacoco.xmlReportPaths>
 
     </properties>
 
